@@ -1,7 +1,7 @@
 /* General Style */
 body {background:#E2E2E2; margin:0px; padding:0px;text-align:center;}
 #wrap {background:url('../.s/t/835/2.gif') repeat-x #E2E2E2;width: expression((document.documentElement.clientWidth || document.body.clientWidth) < 1000 ? "1000px" : "auto");min-width:1000px;}
-#header {height:250px; width:100%; background:url('../flag_03.jpg') repeat-x; text-align:left;}
+#header {height:250px; width:100%; background:url('../flag_033.jpg') repeat-x; text-align:left;}
 #dataBar {padding-top:3px;height:20px;color:#AAAAAA;text-align:right;font-size:80%;margin-right:10px;}
 *html #dataBar {height:23px !important;}
 #logo {height:185px;}
