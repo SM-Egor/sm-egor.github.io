@@ -1,0 +1,6 @@
+This site is the culmination of the efforts of everyone at Impero!
+
+Devs who've worked on this:
+  - Sam A. Horvath-Hunt
+  - Pedro Valentim
+  - Karl Taylor
